@@ -1,92 +1,76 @@
 # Five Dimensions
 
 A live performance system in which a 2009 Nokia N900 becomes a haptic controller for
-multichannel video projection, while a Raspberry Pi 5 on stage listens, reacts, and
-re-cues the projections in real time.
+multichannel video projection, while a Raspberry Pi 5 on stage listens, reacts and
+recues the projections in real time.
 
 **Status:** concept · Week 4 of 15
-**Course:** PSAM 5600 B — Small Linux Devices, Large Language Models
+**Course:** PSAM 5600 B, Small Linux Devices, Large Language Models
 Parsons School of Design, Fall 2026
 
-> ⚠️ Early days. Nothing here runs yet. This README describes the intent and the
-> architecture being built toward; it will be rewritten as things actually work.
-
----
+> ⚠️ Nothing here runs yet. This README describes the intent and the architecture
+> being built toward. It will be rewritten as things actually work.
 
 ## The idea
 
 I want to build a performance environment that is heavily influenced by the space the
 performance happens in. My goal is for people to see the architectural space *and* the
-digital space — of the room we are all standing in — in a completely new way.
+digital space of the room we are all standing in, in a completely new way.
 
 The second goal is my own presence inside it: up to eight channels of video projection
 responding to my body, my voice, the space itself, and the unique set of audience
 members present on that particular day. Projections, LLMs and code are abstract and
 distant things. I want to make them tangible.
 
-I intend this to be frontier avant-garde work, and collaborating with AI openly rather
+I intend this to be frontier avant garde work, and collaborating with AI openly rather
 than quietly is part of that provocation.
 
-The aim is that no two performances are alike — that the room, the day, and the
-particular set of people present all change what happens. Rather than playing back a
-fixed composition, the system reads the space it is in and responds.
+No two performances should be alike. Rather than playing back a fixed composition, the
+system reads the room it is in and responds.
 
 ## The three devices
 
 | Device | Role |
 |---|---|
-| **MacBook Pro M4 Max** (36 GB) | The mothership — renders and drives the projection channels |
-| **Nokia N900** (Maemo 5, 2009) | The haptic link to the physical world — tilt, touch, vibration. Borrowed from the course's Nokia Devices Library. |
-| **Raspberry Pi 5** (16 GB) | The agent on the ground — in the space, reacting, delegating, altering |
+| **MacBook Pro M4 Max** (36 GB) | The mothership. Renders and drives the projection channels. |
+| **Nokia N900** (Maemo 5, 2009) | The haptic link to the physical world: tilt, touch, vibration. Borrowed from the course's Nokia Devices Library. |
+| **Raspberry Pi 5** (16 GB) | The agent on the ground, in the space, reacting and altering. |
 
-Both the Raspberry Pi 5 and the Nokia N900 are *small Linux devices* — the two halves
-of what this course is named after, sixteen years apart.
-
-The **Pi 5** is a current single-board computer: a credit-card-sized machine running
-Raspberry Pi OS, a modern Debian-based Linux, with 16 GB of RAM and enough power to do
-real work on stage.
-
-The **N900** is a 2009 handheld running Maemo 5, also Debian-based, with 245 MB of RAM —
-a real Linux computer in a phone that predates the App Store. It carries a 3-axis
-accelerometer, a resistive touchscreen and a vibration motor. Tilting it moves projected
-image through the room.
-
-Same lineage, opposite strengths: the Pi has the power, the N900 has the body.
+The Pi 5 and the N900 are both small Linux devices, the two halves of what this course
+is named after, sixteen years apart. Both run Linux built on Debian, so the same
+commands work on each. The difference is scale: 245 MB of RAM on the N900 against
+16 GB on the Pi. The Pi has the power, the N900 has the body.
 
 ## Where this is going
 
-Ordered smallest-first. Each step is meant to work before the next begins.
+Smallest first. Each step works before the next begins.
 
-- [ ] **MVP** — tilt the N900, one projection channel moves. One device, one input,
-      one output, visible in a room.
+- [ ] **MVP:** tilt the N900, one projection channel moves
 - [ ] Raspberry Pi 5 on the network, receiving and relaying events
-- [ ] Multiple projection channels (building toward 6–8)
-- [ ] Live voice input altering the projection in real time
+- [ ] Multiple projection channels, building toward eight
+- [ ] Live voice input altering the projection
 - [ ] Audience interaction
 - [ ] A full performance
 
 ## Setup
 
-<!-- TODO: once the MVP runs, a stranger must be able to set this up from here.
-     Hardware, wiring, install steps, how to start it. The rubric grades exactly
-     this. Write it as you go, not at the end. -->
+<!-- TODO: write this as you build, not at the end. A stranger must be able to set it
+     up from here: hardware, install steps, how to start it. -->
 
-Not yet — there is nothing to run.
+Nothing to run yet.
 
 ## Co-authorship
 
-This project is co-developed with AI models, named explicitly, as a course
-requirement and as a matter of method.
+Developed with AI models, named explicitly, as course policy and as method.
 
-- **Claude Opus 5** — setup, repository structure, documentation
-- **Claude Fable 5.1** — planned
+- **Claude Opus 5:** setup, repository structure, documentation
+- **Claude Fable 5.1:** planned
 
 Commits carry `Co-Authored-By:` trailers naming the model that contributed, so the
-history is a legible record of the collaboration rather than a claim made after the
-fact.
+history is a record of the collaboration rather than a claim made afterward.
 
 ## License
 
-[MIT](LICENSE) — anyone may use, modify and build on this work provided the copyright
-notice is kept. Chosen because a performance system is more useful to other artists if
-they can take it apart and adapt it.
+[MIT](LICENSE). Anyone may use, modify and build on this work provided the copyright
+notice is kept. A performance system is more useful to other artists if they can take
+it apart.
