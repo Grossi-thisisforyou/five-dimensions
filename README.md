@@ -39,10 +39,19 @@ fixed composition, the system reads the space it is in and responds.
 | **Nokia N900** (Maemo 5, 2009) | The haptic link to the physical world — tilt, touch, vibration. Borrowed from the course's Nokia Devices Library. |
 | **Raspberry Pi 5** (16 GB) | The agent on the ground — in the space, reacting, delegating, altering |
 
-The N900 is the reason this is a *small Linux device* project. It runs Maemo 5, a real
-Debian-based Linux, and carries a 3-axis accelerometer, a resistive touchscreen and a
-vibration motor in a device that predates the App Store. Tilting it moves projected
+Both the Raspberry Pi 5 and the Nokia N900 are *small Linux devices* — the two halves
+of what this course is named after, sixteen years apart.
+
+The **Pi 5** is a current single-board computer: a credit-card-sized machine running
+Raspberry Pi OS, a modern Debian-based Linux, with 16 GB of RAM and enough power to do
+real work on stage.
+
+The **N900** is a 2009 handheld running Maemo 5, also Debian-based, with 245 MB of RAM —
+a real Linux computer in a phone that predates the App Store. It carries a 3-axis
+accelerometer, a resistive touchscreen and a vibration motor. Tilting it moves projected
 image through the room.
+
+Same lineage, opposite strengths: the Pi has the power, the N900 has the body.
 
 ## Where this is going
 
