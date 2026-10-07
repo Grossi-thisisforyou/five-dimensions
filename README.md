@@ -24,7 +24,7 @@ hundreds of letters from the front, photos, and gaps. Now everyone who lived thr
 that time is dead, and the younger generations don't talk, or don't function. Nobody
 in my family can sit in one room and go through it together.
 
-So I'm building the room. Everything goes into one place, **the Pot**. A machine
+So I'm building the room. Everything goes into one place, **the Vessel**. A machine
 transcribes, translates and dates it, and turns every piece into a fragment that
 points back to its recording minute or letter page. On stage, each projection channel
 belongs to one voice. The fifth dimension is me, live, asking the questions I didn't
@@ -37,7 +37,7 @@ is part of the provocation.
 
 ## How it works
 
-1. **The Pot (before the show).** Recordings, letters and photos go in raw and come
+1. **The Vessel (before the show).** Recordings, letters and photos go in raw and come
    out as cited fragments, German and English. A large model does the synthesis ahead
    of time; on stage, a small self-hosted model may only *choose* a fragment I already
    approved.
@@ -63,9 +63,10 @@ the power, the N900 has the body.
 
 ## Care
 
-I'm reading on this alongside the work, and I invite discussion. I want to push
-boundaries, I accept that I might cross some, and I don't yet know whether I want to
-keep working this way. The rules below are where I stand today.
+I'm reading alongside the work (Harari, Bostrom's *Superintelligence*, the newspapers)
+and I invite discussion. I want to push boundaries and accept that I might cross some.
+I commit fully to collaborating with AI, to see how far I can go. The rules below are
+where I stand today.
 
 - **Consent.** One recording was made without asking, and I can no longer ask. The
   others agreed to be interviewed. Everyone who lived through that time has died; the
@@ -99,7 +100,7 @@ keep working this way. The rules below are where I stand today.
 
 ## Next steps
 
-- [ ] Organize the archive into the Pot: inventory, then a pilot with one recording and ten letters
+- [ ] Organize the archive into the Vessel: inventory, then a pilot with one recording and ten letters
 - [ ] Run `pi/hello_isadora.py` on the Pi and see the cues arrive in Isadora
 - [ ] Give the Pi ears: a clip-on microphone and offline speech-to-text
 - [ ] Charge the N900, read its tilt sensor, use it in Isadora
