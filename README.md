@@ -1,6 +1,7 @@
 # Five Dimensions
 
-A live performance built from my family's archive of the war in Germany. Four walls
+A live performance built from my family's archive of the Second World War in Germany and
+Romania. Four walls
 of video carry four voices that never shared a room. I stand in the middle as the
 fifth, and the room, the audience and a phone call to a relative who has died decide
 what happens next.
@@ -15,7 +16,7 @@ Parsons School of Design, Fall 2026
 
 ## What it is
 
-My family lived through the war in Germany: one as a child, one as a teenage soldier,
+My family lived through the Second World War in Germany and Romania: one as a child, one as a teenage soldier,
 one who came back and mostly kept silent. They left hours of recorded conversation,
 hundreds of letters from the front, photos, and gaps. Eighty years later, nobody in
 my family can sit in one room and go through it together.
