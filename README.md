@@ -24,7 +24,7 @@ hundreds of letters from the front, photos, and gaps. Now everyone who lived thr
 that time is dead, and the younger generations don't talk, or don't function. Nobody
 in my family can sit in one room and go through it together.
 
-So I'm building the room. Everything goes into one place, **the Vessel**. A machine
+So I'm building the room in New York. Everything goes into one place, **the Vessel**. A machine
 transcribes, translates and dates it, and turns every piece into a fragment that
 points back to its recording minute or letter page. On stage, each projection channel
 belongs to one voice.
@@ -62,11 +62,11 @@ leaning in, as an experiment, and I invite discussion.
 
 - **Consent.** I recorded with consent, and have worked with the material
   journalistically in Melissa Monroe's long-form class. Now everyone I recorded is
-  dead. I have huge reservations, and I've decided to lean in.
+  dead. I have huge reservations, though I've decided to lean in.
 - **The reconstructed voice.** A machine speaks as a relative who has died and says
-  things he never said. The audience is told before it happens.
+  things he never said. The audience is told before it happens?
 - **Privacy.** Transcription stays on my computer. Any cloud upload is a per-material
-  choice, never a default.
+  choice, never a default. I need help here.
 - **Showing.** My family hears it before an audience does. No names in public,
   including here. The archive is never published; this repo holds code and
   documentation only.
