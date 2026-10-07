@@ -71,7 +71,7 @@ leaning in, as an experiment, and I invite discussion.
   including here. The archive is never published; this repo holds code and
   documentation only.
 - **Reading.** Harari's *Nexus*, Bostrom's *Superintelligence*, and newspaper pieces
-  such as the New York Times' in praise of the detour.
+  such as the New York Times' "In Defense of the Detour".
 
 ## Where it stands (Week 7)
 
