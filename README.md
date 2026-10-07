@@ -68,9 +68,9 @@ and I invite discussion. I want to push boundaries and accept that I might cross
 I commit fully to collaborating with AI, to see how far I can go. The rules below are
 where I stand today.
 
-- **Consent.** One recording was made without asking, and I can no longer ask. The
-  others agreed to be interviewed. Everyone who lived through that time has died; the
-  family that remains decides what goes in.
+- **Consent.** I recorded with consent, and have worked with the material
+  journalistically in Melissa Monroe's long-form class. Now everyone I recorded is
+  dead. I have huge reservations, and I've decided to lean in.
 - **The reconstructed voice.** A machine speaks as a relative who has died and says
   things he never said. The audience is told before it happens.
 - **Privacy.** Transcription stays on my computer. Any cloud upload is a per-material
