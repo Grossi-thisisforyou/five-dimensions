@@ -31,10 +31,6 @@ belongs to one voice. The fifth dimension is me, live, asking the questions I di
 dare to ask. Or is it us? The audience is in the room too, and we all become
 performers.
 
-**The one rule:** where the Pot has no source, it says "unknown". I may fill the gray
-area with my own hopes. The machine may not. There is one deliberate exception, and
-the audience is told (see *The call*).
-
 No two performances are alike: the system reads the room it is in and responds. I
 intend this as avant garde work, and collaborating with AI openly rather than quietly
 is part of the provocation.
@@ -44,14 +40,13 @@ is part of the provocation.
 1. **The Pot (before the show).** Recordings, letters and photos go in raw and come
    out as cited fragments, German and English. A large model does the synthesis ahead
    of time; on stage, a small self-hosted model may only *choose* a fragment I already
-   approved. It never invents one.
+   approved.
 2. **The room (Isadora on the MacBook).** A camera counts the faces in the audience
    and follows my body. More people, more voices. My movement moves the video across
    the four channels; tilting the Nokia N900 in my hand shifts the whole projection.
 3. **The call (N900 + Raspberry Pi 5).** The N900 becomes a phone again. It rings, I
    pick up, and the Pi listens to what I say. A relative who has died answers in a
-   voice reconstructed from the little he recorded, speaking freely. This is the one
-   place the machine is allowed into the gray area.
+   voice reconstructed from the little he recorded, speaking freely.
 
 If anything is slow, confused or offline, the current cue holds and the show goes on.
 
