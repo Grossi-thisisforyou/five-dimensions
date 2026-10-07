@@ -31,14 +31,6 @@ belongs to one voice. The fifth dimension is me, live, asking the questions I di
 dare to ask. Or is it us? The audience is in the room too, and we all become
 performers.
 
-| Channel | Voice |
-|---|---|
-| 1 | The child |
-| 2 | The soldier |
-| 3 | The silent one |
-| 4 | The record: documents, dates, what the family left out |
-| 5 | Me, in the room |
-
 **The one rule:** where the Pot has no source, it says "unknown". I may fill the gray
 area with my own hopes. The machine may not. There is one deliberate exception, and
 the audience is told (see *The call*).
