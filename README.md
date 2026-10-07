@@ -88,10 +88,16 @@ The archive belongs to people who are still alive, and to two who can no longer 
 
 ## Setup
 
-<!-- TODO: write this as you build, not at the end. A stranger must be able to set it
-     up from here: hardware, install steps, how to start it. -->
+**First link: the Pi sends cues to Isadora over Wi‑Fi** ([`pi/hello_isadora.py`](pi/hello_isadora.py), standard-library Python, nothing to install).
 
-Nothing to run yet.
+1. On the Mac, in Isadora: add an **OSC Listener** and turn on OSC input on port 1234.
+2. On the Pi, with the Mac and the Pi on the same Wi‑Fi:
+   ```
+   git clone https://github.com/Grossi-thisisforyou/five-dimensions
+   cd five-dimensions/pi
+   python3 hello_isadora.py MAC_IP_ADDRESS
+   ```
+3. The Pi prints `sent cue 1`, `sent cue 2`, … and Isadora receives `/fivedim/cue` with the numbers 1 to 4, one for each projection channel.
 
 ## Co-authorship
 
