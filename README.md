@@ -116,6 +116,12 @@ leaning in, as an experiment, and I invite discussion.
    ```
 3. The Pi prints `sent cue 1 … 4`; Isadora receives `/fivedim/cue`, one number per channel.
 
+## See also
+
+[Read the Room](https://github.com/Grossi-thisisforyou/read_the_room): a second piece, a
+short dance work that profiles its audience in plain sight. Same question from the other
+side: what a machine is allowed to say about the people in the room.
+
 ## Co-authorship
 
 Developed with AI models, named explicitly, as course policy and as method.
