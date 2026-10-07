@@ -51,6 +51,15 @@ Five Dimensions turns my family's war archive into a room you can stand inside.
 
 If anything is slow or offline, the current cue holds and the show goes on.
 
+## Care
+
+The archive belongs to people who are still alive, and to two who can no longer answer.
+
+- **Consent.** I recorded Erwin without asking, and can no longer ask. Großi I ask while she can answer, and again. Each relative decides what of theirs goes in.
+- **The reconstructed voice.** On the call, a machine speaks as my grandfather and says things he never said. It is the one deliberate exception to the rule that the machine never fills the gray area, and the audience is told so before it happens.
+- **Privacy.** Transcription stays on my own computer. Sending anything to a cloud service is a choice I make per material, never a default.
+- **Showing.** My family hears it before an audience does. Public versions can hide names. The archive itself is never published; this repo holds code and documentation, not the family's recordings or letters.
+
 ## Where it stands (Week 7)
 
 - **Raspberry Pi 5 is on Wi‑Fi** and I can reach it over my home network.
