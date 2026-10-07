@@ -71,6 +71,10 @@ the power, the N900 has the body.
 
 ## Care
 
+I'm reading on this alongside the work, and I invite discussion. I want to push
+boundaries, I accept that I might cross some, and I don't yet know whether I want to
+keep working this way. The rules below are where I stand today.
+
 - **Consent.** One recording was made without asking, and I can no longer ask. Those
   who can still answer, I ask, and ask again. Each relative decides what goes in.
 - **The reconstructed voice.** A machine speaks as a relative who has died and says
