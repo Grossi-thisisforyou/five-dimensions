@@ -11,6 +11,8 @@ Parsons School of Design, Fall 2026
 > ⚠️ The show doesn't run yet. Some parts already work: see *Where it stands*. This
 > README describes the intent and will be rewritten as things actually work.
 
+![First try: performing in front of my own silhouette, projected across the studio wall](docs/images/first-try-1.jpg)
+
 ## The idea
 
 I want to build a performance environment that is heavily influenced by the space the
@@ -68,6 +70,12 @@ The archive belongs to people who are still alive, and to two who can no longer 
 - **Isadora can take cues from another machine**: tested from a second computer to mine.
 - Claude writes Isadora logic for me in minutes, so I can try ideas fast.
 - The archive is collected but not yet organized.
+
+**First try** (video stills): the performer's silhouette, captured live and projected across the wall.
+
+| | |
+|---|---|
+| ![Standing in front of the projected silhouette](docs/images/first-try-2.jpg) | ![Walking along the wall as the image follows](docs/images/first-try-3.jpg) |
 
 ## Not yet (known behaviour)
 
