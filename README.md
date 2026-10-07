@@ -4,12 +4,12 @@ A live performance system in which a 2009 Nokia N900 becomes a haptic controller
 multichannel video projection, while a Raspberry Pi 5 on stage listens, reacts and
 recues the projections in real time.
 
-**Status:** concept · Week 4 of 15
+**Status:** proposal · Week 7 of 15
 **Course:** PSAM 5600 B, Small Linux Devices, Large Language Models
 Parsons School of Design, Fall 2026
 
-> ⚠️ Nothing here runs yet. This README describes the intent and the architecture
-> being built toward. It will be rewritten as things actually work.
+> ⚠️ The show doesn't run yet. Some parts already work: see *Where it stands*. This
+> README describes the intent and will be rewritten as things actually work.
 
 ## The idea
 
@@ -41,16 +41,41 @@ is named after, sixteen years apart. Both run Linux built on Debian, so the same
 commands work on each. The difference is scale: 245 MB of RAM on the N900 against
 16 GB on the Pi. The Pi has the power, the N900 has the body.
 
-## Where this is going
+## How it works
 
-Smallest first. Each step works before the next begins.
+Five Dimensions turns my family's war archive into a room you can stand inside.
 
-- [ ] **MVP:** tilt the N900, one projection channel moves
-- [ ] Raspberry Pi 5 on the network, receiving and relaying events
-- [ ] Multiple projection channels, building toward eight
-- [ ] Live voice input altering the projection
-- [ ] Audience interaction
-- [ ] A full performance
+1. **The Pot (before the show).** Recordings, 500+ pages of front-line letters and photos go in raw. Each piece becomes a cited fragment: who, when, the minute or page it came from, German and English. Where there is no source, it says "unknown".
+2. **The call (N900 + Raspberry Pi 5).** The N900 becomes a phone again. It rings, I pick up, and the Pi listens to what I say. My grandfather answers in a voice reconstructed from his 30 recorded minutes. He speaks freely, grounded in the Pot but not limited to it: the one place in the piece where the machine is allowed into the gray area, and the audience is told so.
+3. **The room (Isadora on the MacBook).** A camera counts the faces in the audience and follows my body. The more people in the room, the more voices open; my movement moves the video across four channels: Großi, Andreas, Erwin, and the record.
+
+If anything is slow or offline, the current cue holds and the show goes on.
+
+## Where it stands (Week 7)
+
+- **Raspberry Pi 5 is on Wi‑Fi** and I can reach it over my home network.
+- **Four-channel video projection works** in Isadora.
+- **Isadora reads the live video** and sends cues to the computer based on what it sees (for example, how many faces are in the room).
+- **Isadora can take cues from another machine**: tested from a second computer to mine.
+- Claude writes Isadora logic for me in minutes, so I can try ideas fast.
+- The archive is collected but not yet organized.
+
+## Not yet (known behaviour)
+
+- The N900 isn't charged or connected yet, so I haven't read its tilt sensor or loaded the game I programmed for it.
+- There is no performance room yet, and the projector setup depends on that room.
+
+## Next steps
+
+- [ ] Organize the archive into the Pot: inventory first, then a pilot with Erwin's 30 minutes and ten letters
+- [ ] Charge the N900, read its tilt sensor, and load my game
+- [ ] Join the trinity: N900, Pi and Mac talking to each other
+- [ ] Use the N900's tilt in Isadora to shift and tilt the whole projection
+- [ ] Give the Pi eyes and ears: a microphone first, then a camera
+- [ ] Connect the Pi to Isadora the same way my two-computer test worked
+- [ ] Find the room, then plan the projectors around it
+- [ ] Bring in my 6K footage of birds and roads in Bucharest as the visual layer
+- [ ] Build the N900 call
 
 ## Setup
 
@@ -64,6 +89,7 @@ Nothing to run yet.
 Developed with AI models, named explicitly, as course policy and as method.
 
 - **Claude Opus 5:** setup, repository structure, documentation
+- **Claude Opus 5.5:** Week 7 pitch update (how it works, status, next steps)
 - **Claude Fable 5.1:** planned
 
 Commits carry `Co-Authored-By:` trailers naming the model that contributed, so the
