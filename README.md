@@ -1,7 +1,8 @@
 # Five Dimensions
 
-A live performance built from my family's archive of the Second World War in Germany and
-Romania. Four walls
+A live performance built from the archival and oral history material I've been
+collecting about my family's relation to the Second World War, in Germany and Romania.
+Four walls
 of video carry four voices that never shared a room. I stand in the middle as the
 fifth, and the room, the audience and a phone call to a relative who has died decide
 what happens next.
