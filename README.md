@@ -11,7 +11,7 @@ Parsons School of Design, Fall 2026
 > ⚠️ The show doesn't run yet. Some parts already work: see *Where it stands*. This
 > README describes the intent and will be rewritten as things actually work.
 
-![First try: performing in front of my own silhouette, projected across the studio wall](docs/images/first-try-1.jpg)
+![First try: moving in front of the projection in the studio](docs/images/first-try-1.jpg)
 
 ## The idea
 
@@ -71,11 +71,11 @@ The archive belongs to people who are still alive, and to two who can no longer 
 - Claude writes Isadora logic for me in minutes, so I can try ideas fast.
 - The archive is collected but not yet organized.
 
-**First try** (video stills): the performer's silhouette, captured live and projected across the wall.
+**First try** (video stills): four-channel projection in the studio, with me moving in front of it.
 
 | | |
 |---|---|
-| ![Standing in front of the projected silhouette](docs/images/first-try-2.jpg) | ![Walking along the wall as the image follows](docs/images/first-try-3.jpg) |
+| ![Standing in front of the projection](docs/images/first-try-2.jpg) | ![Walking along the projected wall](docs/images/first-try-3.jpg) |
 
 ## Not yet (known behaviour)
 
