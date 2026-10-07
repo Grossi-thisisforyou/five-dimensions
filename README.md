@@ -18,15 +18,18 @@ Parsons School of Design, Fall 2026
 ## What it is
 
 My family lived through the Second World War in Germany and Romania: one as a child, one as a teenage soldier,
-one who came back and mostly kept silent. They left hours of recorded conversation,
-hundreds of letters from the front, photos, and gaps. Eighty years later, nobody in
-my family can sit in one room and go through it together.
+one who came back and mostly kept silent. This year I broke the silence and
+interviewed those who were open to it. They left hours of recorded conversation,
+hundreds of letters from the front, photos, and gaps. Now everyone who lived through
+that time is dead, and the younger generations don't talk, or don't function. Nobody
+in my family can sit in one room and go through it together.
 
 So I'm building the room. Everything goes into one place, **the Pot**. A machine
 transcribes, translates and dates it, and turns every piece into a fragment that
 points back to its recording minute or letter page. On stage, each projection channel
 belongs to one voice. The fifth dimension is me, live, asking the questions I didn't
-dare to ask.
+dare to ask. Or is it us? The audience is in the room too, and we all become
+performers.
 
 | Channel | Voice |
 |---|---|
@@ -77,8 +80,9 @@ I'm reading on this alongside the work, and I invite discussion. I want to push
 boundaries, I accept that I might cross some, and I don't yet know whether I want to
 keep working this way. The rules below are where I stand today.
 
-- **Consent.** One recording was made without asking, and I can no longer ask. Those
-  who can still answer, I ask, and ask again. Each relative decides what goes in.
+- **Consent.** One recording was made without asking, and I can no longer ask. The
+  others agreed to be interviewed. Everyone who lived through that time has died; the
+  family that remains decides what goes in.
 - **The reconstructed voice.** A machine speaks as a relative who has died and says
   things he never said. The audience is told before it happens.
 - **Privacy.** Transcription stays on my computer. Any cloud upload is a per-material
