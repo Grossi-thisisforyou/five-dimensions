@@ -116,6 +116,10 @@ leaning in, as an experiment, and I invite discussion.
    ```
 3. The Pi prints `sent cue 1 … 4`; Isadora receives `/fivedim/cue`, one number per channel.
 
+**The room without the Mac: the Pi runs the four channels itself**
+([`pi/stage/`](pi/stage/README.md)). Isadora doesn't run on the Pi, so `stage.py` does what
+the patch does: camera, microphone, N900 tilt over OSC, four projector channels.
+
 ## See also
 
 [Read the Room](https://github.com/Grossi-thisisforyou/read_the_room): a second piece, a
